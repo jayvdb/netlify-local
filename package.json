@@ -24,7 +24,7 @@
     "@types/git-branch": "^2.0.0",
     "@types/jsonwebtoken": "^8.3.0",
     "@types/mocha": "^5.2.5",
-    "@types/node": "^10.11.7",
+    "@types/node": "^10.12.9",
     "@types/webpack": "^4.4.16",
     "assert": "^1.4.1",
     "mocha": "^5.2.0",
